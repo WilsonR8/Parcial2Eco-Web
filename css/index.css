@@ -1,0 +1,21 @@
+.list{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background-color: azure;
+    width: 20em;
+    position: relative;
+    padding: 0.5em;
+    
+}
+
+.rate{
+    position:absolute;
+    right: 100px;
+    top: 10px;
+}
+
+.deleteBtn{
+    position:absolute;
+    right: 10px;
+    top: 10px;
+}
